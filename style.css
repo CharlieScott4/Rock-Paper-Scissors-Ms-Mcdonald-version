@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+background-color: lightblue;
+}
+.row2 {
+margin-top: 2em;
+  
+}
+h1{
+  font-weight: bolder;
+  font-size: 9vw;
+  color: white;
+  -webkit-text-stroke: 3px black;
+}
+.col2{
+  border-style: solid;
+    }
+.row3 {
+margin-bottom: 2em;
+  
+}
